@@ -1,0 +1,35 @@
+==00:00:00:00.000 12139== Memcheck, a memory error detector
+==00:00:00:00.000 12139== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==00:00:00:00.000 12139== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==00:00:00:00.000 12139== Command: ./client 127.0.0.1 1513
+==00:00:00:00.000 12139== Parent PID: 12135
+==00:00:00:00.000 12139== 
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== FILE DESCRIPTORS: 9 open (3 std) at exit.
+==00:00:00:06.103 12139== Open file descriptor 103: /snap/code/143/usr/share/code/v8_context_snapshot.bin
+==00:00:00:06.103 12139==    <inherited from parent>
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== Open file descriptor 63:
+==00:00:00:06.103 12139==    <inherited from parent>
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== Open AF_UNIX socket 38: <unknown>
+==00:00:00:06.103 12139==    <inherited from parent>
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== Open file descriptor 37: /snap/code/143/usr/share/code/resources/app/node_modules.asar
+==00:00:00:06.103 12139==    <inherited from parent>
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== Open file descriptor 36: /home/vic/.config/Code/logs/20231017T171122/ptyhost.log
+==00:00:00:06.103 12139==    <inherited from parent>
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== Open file descriptor 3: /home/vic/Escritorio/universidad/materias/taller_i/tps/tp2_threads/casos/05_chat_echo/__client_0_valgrind__
+==00:00:00:06.103 12139==    <inherited from parent>
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== HEAP SUMMARY:
+==00:00:00:06.103 12139==     in use at exit: 0 bytes in 0 blocks
+==00:00:00:06.103 12139==   total heap usage: 8 allocs, 8 frees, 80,982 bytes allocated
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== All heap blocks were freed -- no leaks are possible
+==00:00:00:06.103 12139== 
+==00:00:00:06.103 12139== For lists of detected and suppressed errors, rerun with: -s
+==00:00:00:06.103 12139== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -1,0 +1,7 @@
+#ifndef SERVER_CODIGOS
+#define SERVER_CODIGOS
+
+#define PLAYER_COUNT_CODIGO 0x06
+#define CHAT_CODIGO 0x09
+
+#endif
