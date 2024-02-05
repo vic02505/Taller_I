@@ -15,8 +15,8 @@ Respecto al segundo TP, la prueba de concepto estuvo orientada al manejo de thre
 
 Para tener más información sobre cada TP, y sobre sus objetivos se recomienda leer el enunciado de los mismos.
 
-    Debido a que el sistema de entregas de la materia no soportaba archivos con carpetas, cada TP tiene todos sus archivos fuentes en la carpeta principal o raíz, lo cual puede complicar el manejo de los mismos.
+Debido a que el sistema de entregas de la materia no soportaba archivos con carpetas, cada TP tiene todos sus archivos fuentes en la carpeta principal o raíz, lo cual puede complicar el manejo de los mismos.
 
--Proyecto final (carpeta worms): Fue un proyecto grupal asignado durante la última parte de la materia, el obejivo era el de hacer un remake del juego worms. Para tal fin, fue requerido hacer uso de un motor gráfico (SDL2pp), y de un motor de físicas (Box2D), comunicados a través de una arquitectura cliente servidor. 
+
 
 
