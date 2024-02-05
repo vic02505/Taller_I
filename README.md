@@ -17,6 +17,9 @@ Para tener más información sobre cada TP, y sobre sus objetivos se recomienda 
 
 Debido a que el sistema de entregas de la materia no soportaba archivos con carpetas, cada TP tiene todos sus archivos fuentes en la carpeta principal o raíz, lo cual puede complicar el manejo de los mismos.
 
+-Proyecto final: Como proyecto final se hizo un remake del juego worms. Toda la información del mismo se encuentra en el siguiente link.
+
+https://github.com/vic02505/worms_remake
 
 
 
